@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|c:\\users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:stoga-\u00FCr\u00FCn-al\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:stoga-\u00FCr\u00FCn-al\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\data_yenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:data_yenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stok-takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:stok-takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B77B3A-7CB6-4FC1-A484-5DC81517F90A}|esnaf-stok.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data_yenile.cs",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\data_yenile.cs",
+              "RelativeDocumentMoniker": "data_yenile.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\data_yenile.cs",
+              "RelativeToolTip": "data_yenile.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwEEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:24:52.677Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "talep.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs",
+              "RelativeDocumentMoniker": "talep.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs [Tasar\u0131m]",
+              "RelativeToolTip": "talep.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:25:04.262Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "talep.cs",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs",
+              "RelativeDocumentMoniker": "talep.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\talep.cs",
+              "RelativeToolTip": "talep.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwGsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:28:43.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:30:11.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "RelativeDocumentMoniker": "stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "RelativeToolTip": "stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAApwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:26:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stoga-\u00FCr\u00FCn-al\u0131m.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "RelativeDocumentMoniker": "stoga-\u00FCr\u00FCn-al\u0131m.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stoga-\u00FCr\u00FCn-al\u0131m.cs [Tasar\u0131m]",
+              "RelativeToolTip": "stoga-\u00FCr\u00FCn-al\u0131m.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:31:32.655Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stok-takip.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stok-takip.cs",
+              "RelativeDocumentMoniker": "stok-takip.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\stok-takip.cs [Tasar\u0131m]",
+              "RelativeToolTip": "stok-takip.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:15:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ouysa\\source\\repos\\esnaf-stok\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:12:00.372Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

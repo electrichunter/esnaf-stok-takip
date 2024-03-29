@@ -1,0 +1,13 @@
+C:\Users\ouysa\source\repos\esnaf-stok\bin\Release\esnaf-stok.exe.config
+C:\Users\ouysa\source\repos\esnaf-stok\bin\Release\esnaf-stok.exe
+C:\Users\ouysa\source\repos\esnaf-stok\bin\Release\esnaf-stok.pdb
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf-stok.csproj.AssemblyReference.cache
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf_stok.Form1.resources
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf_stok.Properties.Resources.resources
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf_stok.stoga_ürün_alım.resources
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf_stok.stok_takip.resources
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf_stok.talep.resources
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf-stok.csproj.GenerateResource.cache
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf-stok.csproj.CoreCompileInputs.cache
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf-stok.exe
+C:\Users\ouysa\source\repos\esnaf-stok\obj\Release\esnaf-stok.pdb
